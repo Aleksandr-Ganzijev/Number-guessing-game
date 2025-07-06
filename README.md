@@ -11,5 +11,5 @@ A simple Python game where you guess a random number between 1 and 100, with adj
 - Play again option
 
 ## How to Run 🚀  
-
+Install `number_guessing_game.py`
 
