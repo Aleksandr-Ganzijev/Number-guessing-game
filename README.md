@@ -12,6 +12,6 @@ A simple Python game where you guess a random number between 1 and 100, with adj
 
 ## How to Run 🚀  
 Just **double-click the game file**! If it doesn’t work:  
-1. Install [Python](https://www.python.org/downloads/) (check "Add to PATH").  
+1. Install [Python](https://www.python.org/downloads/)   
 2. Right-click the file → **Open With** → **Python**. 
 
