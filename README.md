@@ -12,5 +12,5 @@ A simple Python game where you guess a random number between 1 and 100, with adj
 
 ## How to Run 🚀
 ```bash
-python3 number_guessing_game.py
+python3 number guessing game.py
 
