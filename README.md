@@ -11,15 +11,16 @@ A simple Python game where you guess a random number between 1 and 100, with adj
 - Play again option
 
 ## How to Run 🚀
+1. Make sure you have **Python 3** installed.
 
-1. Make sure you have Python 3 installed.
+2. Clone this repository using Git:
 
-2. Download or clone the `number_guessing_game.py` file.
-
-3. Open a terminal and navigate to the folder where the file is located.
-
-4. Run the game with:
-
+   ```bash
+   git clone https://github.com/Aleksandr-Ganzijev/Number-guessing-game.git
+3. Change into the project directory
+   ```bash
+   cd  Number-guessing-game
+4. Run the game
    ```bash
    python number_guessing_game.py
 
